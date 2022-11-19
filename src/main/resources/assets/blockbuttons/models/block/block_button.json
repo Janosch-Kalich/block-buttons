@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "blockbuttons:block/block_button_back",
+    "down": "blockbuttons:block/block_button_side",
+    "up": "blockbuttons:block/block_button_side",
+    "east": "blockbuttons:block/block_button_side",
+    "west": "blockbuttons:block/block_button_side",
+    "south": "blockbuttons:block/block_button_back",
+    "north": "blockbuttons:block/block_button_front"
+  }
+}
